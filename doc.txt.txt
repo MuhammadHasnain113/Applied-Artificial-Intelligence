@@ -1,0 +1,4 @@
+This is the Applied AI assignment based on a word search ladder game in which we search words based on the three search algorithm which are:
+=> A* Search
+=> Best First Search
+=> Depth First Search
